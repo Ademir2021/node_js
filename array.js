@@ -2,7 +2,7 @@ const grades = [20]
 grades.push (1)
 grades.push (2)
 grades.push (3)
-grades.splice (5) //remove
+grades.splice (3,1) //remove
 grades.push (6)
 grades.push (7)
 

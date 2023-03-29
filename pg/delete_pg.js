@@ -3,7 +3,7 @@ const user_db = require('./.env.json')
 const client = new Client(user_db)
 var user = []
 
-user = {name:"Luiz da Costa Silva", username:"luiz@provider.com", password:"abc123"}
+user = {name:"Luiz da Costa Silva", username:"maria_almeida@gmail.com", password:"abc123"}
 
 delUser(user)
 
