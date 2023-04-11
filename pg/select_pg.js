@@ -5,15 +5,12 @@ getUsers()
 
 async function getUsers(){
 try{
-    console.log("Iniciando a conexão!")
     await client.connect()
-    console.log('Bem sucedida!')
-    const resultado = await client.query("select * from users")
-    let user = resultado.rows
-    console.log(user) 
+    const res = await client.query("SELECT *FROM itens_sale WHERE fk_sale = 1")
+    console.table(res.rows)
  }
-    catch(ex){
-    console.log("Ocorreu erro em users", + ex)
+    catch(err){
+    console.log("error occured: ", + err)
     }
     finally{
         await client.end()
