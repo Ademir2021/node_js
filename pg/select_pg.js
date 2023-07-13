@@ -6,7 +6,7 @@ getUsers()
 async function getUsers(){
 try{
     await client.connect()
-    const res = await client.query("SELECT *FROM itens_sale WHERE fk_sale = 1")
+    const res = await client.query("SELECT *FROM sales")
     console.table(res.rows)
  }
     catch(err){
