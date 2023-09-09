@@ -2,6 +2,7 @@
   "dependencies": {
     "@types/nodemailer": "^6.4.8",
     "@types/pdfmake": "^0.2.2",
+    "api": "^6.1.0",
     "date-fns": "^2.29.3",
     "nodemailer": "^6.9.3",
     "nodemailer-smtp-transport": "^2.7.4",
