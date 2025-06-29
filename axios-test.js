@@ -3,7 +3,7 @@ const url = 'http:localhost:3000/product_list_query'
 
 const prod = {
     id_product:null,
-    descric_product:"KIT",
+    descric_product:"Switch",
     fk_brand:0,
     fk_sector:0
 }

@@ -1,0 +1,2243 @@
+[
+  {
+    "PAIS": 1,
+    "NOME": "Brasil",
+    "SIGLA": "BRA",
+    "DDI": 55,
+    "COD_PAIS": 1.058,
+    "CODIGO_RECEITA": 1,
+    "DATA__": "19.11.2014 15:28"
+  },
+  {
+    "PAIS": 2,
+    "NOME": "Afeganist�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 132,
+    "CODIGO_RECEITA": 13,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 3,
+    "NOME": "�frica do Sul",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.56,
+    "CODIGO_RECEITA": 756,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 4,
+    "NOME": "Alb�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 175,
+    "CODIGO_RECEITA": 17,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 5,
+    "NOME": "Alemanha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 230,
+    "CODIGO_RECEITA": 23,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 6,
+    "NOME": "Andorra",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 370,
+    "CODIGO_RECEITA": 37,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 7,
+    "NOME": "Angola",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 400,
+    "CODIGO_RECEITA": 40,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 8,
+    "NOME": "Anguilla",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 418,
+    "CODIGO_RECEITA": 41,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 9,
+    "NOME": "Antigua e Barbuda",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 434,
+    "CODIGO_RECEITA": 43,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 10,
+    "NOME": "Antilhas Holandesas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 477,
+    "CODIGO_RECEITA": 47,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 11,
+    "NOME": "Ar�bia Saudita",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 531,
+    "CODIGO_RECEITA": 53,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 12,
+    "NOME": "Arg�lia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 590,
+    "CODIGO_RECEITA": 59,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 13,
+    "NOME": "Argentina",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 639,
+    "CODIGO_RECEITA": 63,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 14,
+    "NOME": "Arm�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 647,
+    "CODIGO_RECEITA": 64,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 15,
+    "NOME": "Aruba",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 655,
+    "CODIGO_RECEITA": 65,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 16,
+    "NOME": "Austr�lia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 698,
+    "CODIGO_RECEITA": 69,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 17,
+    "NOME": "�ustria",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 728,
+    "CODIGO_RECEITA": 72,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 18,
+    "NOME": "Azerbaij�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 736,
+    "CODIGO_RECEITA": 73,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 19,
+    "NOME": "Bahamas, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 779,
+    "CODIGO_RECEITA": 77,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 20,
+    "NOME": "Bahrein, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 809,
+    "CODIGO_RECEITA": 80,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 21,
+    "NOME": "Bangladesh",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 817,
+    "CODIGO_RECEITA": 81,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 22,
+    "NOME": "Barbados",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 833,
+    "CODIGO_RECEITA": 83,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 23,
+    "NOME": "Belarus",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 850,
+    "CODIGO_RECEITA": 85,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 24,
+    "NOME": "B�lgica",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 876,
+    "CODIGO_RECEITA": 87,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 25,
+    "NOME": "Belize",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 884,
+    "CODIGO_RECEITA": 88,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 26,
+    "NOME": "Benin",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.291,
+    "CODIGO_RECEITA": 229,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 27,
+    "NOME": "Bermudas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 906,
+    "CODIGO_RECEITA": 90,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 28,
+    "NOME": "Bol�via",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 973,
+    "CODIGO_RECEITA": 97,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 29,
+    "NOME": "B�snia-Herzegovina",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 981,
+    "CODIGO_RECEITA": 98,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 30,
+    "NOME": "Botsuana",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.015,
+    "CODIGO_RECEITA": 101,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 31,
+    "NOME": "Brunei",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.082,
+    "CODIGO_RECEITA": 108,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 32,
+    "NOME": "Bulg�ria",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.112,
+    "CODIGO_RECEITA": 111,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 33,
+    "NOME": "Burkina Faso",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 310,
+    "CODIGO_RECEITA": 115,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 34,
+    "NOME": "Burundi",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.155,
+    "CODIGO_RECEITA": 31,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 35,
+    "NOME": "But�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.198,
+    "CODIGO_RECEITA": 119,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 36,
+    "NOME": "Cabo Verde",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.279,
+    "CODIGO_RECEITA": 127,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 37,
+    "NOME": "Camar�es",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.457,
+    "CODIGO_RECEITA": 145,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 38,
+    "NOME": "Camboja",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.414,
+    "CODIGO_RECEITA": 141,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 39,
+    "NOME": "Canad�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.49,
+    "CODIGO_RECEITA": 149,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 40,
+    "NOME": "Can�rias, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.511,
+    "CODIGO_RECEITA": 151,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 41,
+    "NOME": "Catar",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.546,
+    "CODIGO_RECEITA": 154,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 42,
+    "NOME": "Cayman, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.376,
+    "CODIGO_RECEITA": 137,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 43,
+    "NOME": "Cazaquist�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.538,
+    "CODIGO_RECEITA": 153,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 44,
+    "NOME": "Chade",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.889,
+    "CODIGO_RECEITA": 788,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 45,
+    "NOME": "Chile",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.589,
+    "CODIGO_RECEITA": 158,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 46,
+    "NOME": "China",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.6,
+    "CODIGO_RECEITA": 160,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 47,
+    "NOME": "Chipre",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.635,
+    "CODIGO_RECEITA": 163,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 48,
+    "NOME": "Christmas,Ilha (Navidad)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.118,
+    "CODIGO_RECEITA": 511,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 49,
+    "NOME": "Cingapura",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.412,
+    "CODIGO_RECEITA": 741,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 50,
+    "NOME": "Cocos (Keeling), Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.651,
+    "CODIGO_RECEITA": 165,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 51,
+    "NOME": "Col�mbia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.694,
+    "CODIGO_RECEITA": 169,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 52,
+    "NOME": "Comores, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.732,
+    "CODIGO_RECEITA": 173,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 53,
+    "NOME": "Congo",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.775,
+    "CODIGO_RECEITA": 177,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 54,
+    "NOME": "Cook, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.83,
+    "CODIGO_RECEITA": 183,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 55,
+    "NOME": "Cor�ia do Norte",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.872,
+    "CODIGO_RECEITA": 190,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 56,
+    "NOME": "Cor�ia do Sul",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.902,
+    "CODIGO_RECEITA": 187,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 57,
+    "NOME": "Costa do Marfim",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.937,
+    "CODIGO_RECEITA": 193,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 58,
+    "NOME": "Costa Rica",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.961,
+    "CODIGO_RECEITA": 196,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 59,
+    "NOME": "Coveite (Kuwait)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.988,
+    "CODIGO_RECEITA": 198,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 60,
+    "NOME": "Cro�cia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.953,
+    "CODIGO_RECEITA": 195,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 61,
+    "NOME": "Cuba",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.996,
+    "CODIGO_RECEITA": 199,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 62,
+    "NOME": "Dinamarca",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.321,
+    "CODIGO_RECEITA": 232,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 63,
+    "NOME": "Djibuti",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.838,
+    "CODIGO_RECEITA": 783,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 64,
+    "NOME": "Dominica, Ilha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.356,
+    "CODIGO_RECEITA": 235,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 65,
+    "NOME": "Dubai",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.445,
+    "CODIGO_RECEITA": 244,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 66,
+    "NOME": "Egito",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.402,
+    "CODIGO_RECEITA": 240,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 67,
+    "NOME": "El salvador",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.874,
+    "CODIGO_RECEITA": 687,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 68,
+    "NOME": "Emirados �rabes Unidos",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.445,
+    "CODIGO_RECEITA": 244,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 69,
+    "NOME": "Equador",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.399,
+    "CODIGO_RECEITA": 239,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 70,
+    "NOME": "Eritr�ia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.437,
+    "CODIGO_RECEITA": 243,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 71,
+    "NOME": "Eslovaca, Rep�blica",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.47,
+    "CODIGO_RECEITA": 247,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 72,
+    "NOME": "Eslov�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.461,
+    "CODIGO_RECEITA": 246,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 73,
+    "NOME": "Espanha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.453,
+    "CODIGO_RECEITA": 245,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 74,
+    "NOME": "Estados Unidos",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.496,
+    "CODIGO_RECEITA": 249,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 75,
+    "NOME": "Est�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.518,
+    "CODIGO_RECEITA": 251,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 76,
+    "NOME": "Eti�pia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.534,
+    "CODIGO_RECEITA": 253,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 77,
+    "NOME": "Falkland (Ilhas Malvinas)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.55,
+    "CODIGO_RECEITA": 255,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 78,
+    "NOME": "Feroe, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.593,
+    "CODIGO_RECEITA": 259,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 79,
+    "NOME": "Fezzan",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.383,
+    "CODIGO_RECEITA": 438,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 80,
+    "NOME": "Fiji",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.702,
+    "CODIGO_RECEITA": 870,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 81,
+    "NOME": "Filipinas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.674,
+    "CODIGO_RECEITA": 267,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 82,
+    "NOME": "Finl�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.712,
+    "CODIGO_RECEITA": 271,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 83,
+    "NOME": "Formosa (Taiwan)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.619,
+    "CODIGO_RECEITA": 161,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 84,
+    "NOME": "Fran�a",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.755,
+    "CODIGO_RECEITA": 275,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 85,
+    "NOME": "Gab�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.81,
+    "CODIGO_RECEITA": 281,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 86,
+    "NOME": "G�mbia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.852,
+    "CODIGO_RECEITA": 285,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 87,
+    "NOME": "Gana",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.895,
+    "CODIGO_RECEITA": 289,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 88,
+    "NOME": "Ge�rgia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.917,
+    "CODIGO_RECEITA": 291,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 89,
+    "NOME": "Gibraltar",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.933,
+    "CODIGO_RECEITA": 293,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 90,
+    "NOME": "Granada",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 2.976,
+    "CODIGO_RECEITA": 297,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 91,
+    "NOME": "Gr�cia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.018,
+    "CODIGO_RECEITA": 301,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 92,
+    "NOME": "Groenl�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.05,
+    "CODIGO_RECEITA": 305,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 93,
+    "NOME": "Guadalupe",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.093,
+    "CODIGO_RECEITA": 309,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 94,
+    "NOME": "Guam",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.131,
+    "CODIGO_RECEITA": 313,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 95,
+    "NOME": "Guatemala",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.174,
+    "CODIGO_RECEITA": 317,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 96,
+    "NOME": "Guernsey, Ilha Do Canal (Inclui Alderney)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.504,
+    "CODIGO_RECEITA": 150,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 97,
+    "NOME": "Guiana",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.379,
+    "CODIGO_RECEITA": 337,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 98,
+    "NOME": "Guiana Francesa",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.255,
+    "CODIGO_RECEITA": 325,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 99,
+    "NOME": "Guin�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.298,
+    "CODIGO_RECEITA": 329,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 100,
+    "NOME": "Guin�-Bissau",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.344,
+    "CODIGO_RECEITA": 334,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 101,
+    "NOME": "Guin�-Equatorial",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.31,
+    "CODIGO_RECEITA": 331,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 102,
+    "NOME": "Haiti",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.417,
+    "CODIGO_RECEITA": 341,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 103,
+    "NOME": "Honduras",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.45,
+    "CODIGO_RECEITA": 345,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 104,
+    "NOME": "Hong Kong",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.514,
+    "CODIGO_RECEITA": 351,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 105,
+    "NOME": "Hungria",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.557,
+    "CODIGO_RECEITA": 355,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 106,
+    "NOME": "I�men",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.573,
+    "CODIGO_RECEITA": 357,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 107,
+    "NOME": "�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.611,
+    "CODIGO_RECEITA": 361,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 108,
+    "NOME": "Indon�sia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.654,
+    "CODIGO_RECEITA": 365,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 109,
+    "NOME": "Inglaterra",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.289,
+    "CODIGO_RECEITA": 628,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 110,
+    "NOME": "Ir�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.727,
+    "CODIGO_RECEITA": 372,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 111,
+    "NOME": "Iraque",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.697,
+    "CODIGO_RECEITA": 369,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 112,
+    "NOME": "Irlanda",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.751,
+    "CODIGO_RECEITA": 375,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 113,
+    "NOME": "Isl�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.794,
+    "CODIGO_RECEITA": 379,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 114,
+    "NOME": "Israel",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.832,
+    "CODIGO_RECEITA": 383,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 115,
+    "NOME": "It�lia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.867,
+    "CODIGO_RECEITA": 386,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 116,
+    "NOME": "Jamaica",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.913,
+    "CODIGO_RECEITA": 391,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 117,
+    "NOME": "Jap�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.999,
+    "CODIGO_RECEITA": 399,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 118,
+    "NOME": "Jersey, Ilha do Canal",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 1.504,
+    "CODIGO_RECEITA": 150,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 119,
+    "NOME": "Johnston, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.964,
+    "CODIGO_RECEITA": 396,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 120,
+    "NOME": "Jord�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.03,
+    "CODIGO_RECEITA": 403,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 121,
+    "NOME": "Kiribati",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.111,
+    "CODIGO_RECEITA": 411,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 122,
+    "NOME": "Laos",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.2,
+    "CODIGO_RECEITA": 420,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 123,
+    "NOME": "Lebuan, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.235,
+    "CODIGO_RECEITA": 423,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 124,
+    "NOME": "Lesoto",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.26,
+    "CODIGO_RECEITA": 426,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 125,
+    "NOME": "Let�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.278,
+    "CODIGO_RECEITA": 427,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 126,
+    "NOME": "L�bano",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.316,
+    "CODIGO_RECEITA": 431,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 127,
+    "NOME": "Lib�ria",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.34,
+    "CODIGO_RECEITA": 434,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 128,
+    "NOME": "L�bia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.383,
+    "CODIGO_RECEITA": 438,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 129,
+    "NOME": "Liechtenstein",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.405,
+    "CODIGO_RECEITA": 440,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 130,
+    "NOME": "Litu�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.421,
+    "CODIGO_RECEITA": 442,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 131,
+    "NOME": "Luxemburgo",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.456,
+    "CODIGO_RECEITA": 445,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 132,
+    "NOME": "Macau",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.472,
+    "CODIGO_RECEITA": 447,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 133,
+    "NOME": "Maced�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.499,
+    "CODIGO_RECEITA": 449,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 134,
+    "NOME": "Madagascar",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.502,
+    "CODIGO_RECEITA": 450,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 135,
+    "NOME": "Madeira, Ilha da",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.525,
+    "CODIGO_RECEITA": 452,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 136,
+    "NOME": "Mal�sia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.553,
+    "CODIGO_RECEITA": 455,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 137,
+    "NOME": "Malavi",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.588,
+    "CODIGO_RECEITA": 458,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 138,
+    "NOME": "Maldivas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.618,
+    "CODIGO_RECEITA": 461,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 139,
+    "NOME": "Mali",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.642,
+    "CODIGO_RECEITA": 464,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 140,
+    "NOME": "Malta",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.677,
+    "CODIGO_RECEITA": 467,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 141,
+    "NOME": "Man, Ilha de",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 3.595,
+    "CODIGO_RECEITA": 359,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 142,
+    "NOME": "Marianas do Norte",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.723,
+    "CODIGO_RECEITA": 472,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 143,
+    "NOME": "Marrocos",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.74,
+    "CODIGO_RECEITA": 474,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 144,
+    "NOME": "Marshall, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.766,
+    "CODIGO_RECEITA": 476,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 145,
+    "NOME": "Martinica",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.774,
+    "CODIGO_RECEITA": 477,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 146,
+    "NOME": "Maur�cio",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.855,
+    "CODIGO_RECEITA": 485,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 147,
+    "NOME": "Maurit�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.88,
+    "CODIGO_RECEITA": 488,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 148,
+    "NOME": "M�xico",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.936,
+    "CODIGO_RECEITA": 493,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 149,
+    "NOME": "Mianmar (Birm�nia)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 930,
+    "CODIGO_RECEITA": 93,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 150,
+    "NOME": "Micron�sia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.995,
+    "CODIGO_RECEITA": 499,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 151,
+    "NOME": "Midway, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.901,
+    "CODIGO_RECEITA": 490,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 152,
+    "NOME": "Mo�ambique",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.053,
+    "CODIGO_RECEITA": 505,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 153,
+    "NOME": "Mold�via",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.944,
+    "CODIGO_RECEITA": 494,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 154,
+    "NOME": "M�naco",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.952,
+    "CODIGO_RECEITA": 495,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 155,
+    "NOME": "Mong�lia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.979,
+    "CODIGO_RECEITA": 497,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 156,
+    "NOME": "Montenegro",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 4.985,
+    "CODIGO_RECEITA": 498,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 157,
+    "NOME": "Montserrat, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.01,
+    "CODIGO_RECEITA": 501,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 158,
+    "NOME": "Nam�bia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.07,
+    "CODIGO_RECEITA": 507,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 159,
+    "NOME": "Nauru",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.088,
+    "CODIGO_RECEITA": 508,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 160,
+    "NOME": "Nepal",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.177,
+    "CODIGO_RECEITA": 517,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 161,
+    "NOME": "Nicar�gua",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.215,
+    "CODIGO_RECEITA": 521,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 162,
+    "NOME": "Niger",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.258,
+    "CODIGO_RECEITA": 525,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 163,
+    "NOME": "Nig�ria",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.282,
+    "CODIGO_RECEITA": 528,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 164,
+    "NOME": "Niue, Ilha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.312,
+    "CODIGO_RECEITA": 531,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 165,
+    "NOME": "Norfolk, Ilha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.355,
+    "CODIGO_RECEITA": 535,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 166,
+    "NOME": "Noruega",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.38,
+    "CODIGO_RECEITA": 538,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 167,
+    "NOME": "Nova Caled�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.428,
+    "CODIGO_RECEITA": 542,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 168,
+    "NOME": "Nova Zel�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.487,
+    "CODIGO_RECEITA": 548,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 169,
+    "NOME": "Om�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.568,
+    "CODIGO_RECEITA": 556,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 170,
+    "NOME": "Organiza��es Internacionais",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 9.97,
+    "CODIGO_RECEITA": 997,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 171,
+    "NOME": "Pac�fico, Ilhas do (administ. dos EUA)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.665,
+    "CODIGO_RECEITA": 566,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 172,
+    "NOME": "Pac�fico, Ilhas do (possess�o dos EUA)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.665,
+    "CODIGO_RECEITA": 566,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 173,
+    "NOME": "Pa�ses Baixos (Holanda)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.738,
+    "CODIGO_RECEITA": 573,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 174,
+    "NOME": "Palau",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.754,
+    "CODIGO_RECEITA": 575,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 175,
+    "NOME": "Panam�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.8,
+    "CODIGO_RECEITA": 580,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 176,
+    "NOME": "Papua Nova Guin�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.452,
+    "CODIGO_RECEITA": 545,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 177,
+    "NOME": "Paquist�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.762,
+    "CODIGO_RECEITA": 576,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 178,
+    "NOME": "Paraguai",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.86,
+    "CODIGO_RECEITA": 586,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 179,
+    "NOME": "Peru",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.894,
+    "CODIGO_RECEITA": 589,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 180,
+    "NOME": "Pitcairn, Ilha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.932,
+    "CODIGO_RECEITA": 593,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 181,
+    "NOME": "Polin�sia Francesa",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.991,
+    "CODIGO_RECEITA": 599,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 182,
+    "NOME": "Pol�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.033,
+    "CODIGO_RECEITA": 603,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 183,
+    "NOME": "Porto Rico",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.114,
+    "CODIGO_RECEITA": 611,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 184,
+    "NOME": "Portugal",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.076,
+    "CODIGO_RECEITA": 607,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 185,
+    "NOME": "Provis�o de navios e aeronaves",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 9.903,
+    "CODIGO_RECEITA": 990,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 186,
+    "NOME": "Qu�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.238,
+    "CODIGO_RECEITA": 623,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 187,
+    "NOME": "Quirguiz",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.254,
+    "CODIGO_RECEITA": 625,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 188,
+    "NOME": "Reino Unido",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.289,
+    "CODIGO_RECEITA": 628,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 189,
+    "NOME": "Rep�blica Centro-Africana",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.408,
+    "CODIGO_RECEITA": 640,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 190,
+    "NOME": "Rep�blica Dominicana",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.475,
+    "CODIGO_RECEITA": 647,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 191,
+    "NOME": "Reuni�o, Ilha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.602,
+    "CODIGO_RECEITA": 660,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 192,
+    "NOME": "Rom�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.7,
+    "CODIGO_RECEITA": 670,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 193,
+    "NOME": "Ruanda",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.75,
+    "CODIGO_RECEITA": 675,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 194,
+    "NOME": "R�ssia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.769,
+    "CODIGO_RECEITA": 676,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 195,
+    "NOME": "Saara Ocidental",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.858,
+    "CODIGO_RECEITA": 685,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 196,
+    "NOME": "Saint Kitts E Nevis",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.781,
+    "CODIGO_RECEITA": 678,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 197,
+    "NOME": "Salom�o, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.777,
+    "CODIGO_RECEITA": 677,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 198,
+    "NOME": "Samoa",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.904,
+    "CODIGO_RECEITA": 690,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 199,
+    "NOME": "Samoa Americana",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.912,
+    "CODIGO_RECEITA": 691,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 200,
+    "NOME": "San Marino",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.971,
+    "CODIGO_RECEITA": 697,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 201,
+    "NOME": "Santa Helena",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.102,
+    "CODIGO_RECEITA": 710,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 202,
+    "NOME": "Santa L�cia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.153,
+    "CODIGO_RECEITA": 715,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 203,
+    "NOME": "S�o Crist�v�o e Neves, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.955,
+    "CODIGO_RECEITA": 695,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 204,
+    "NOME": "S�o Pedro e Miquelon",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.005,
+    "CODIGO_RECEITA": 700,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 205,
+    "NOME": "S�o Tom� e Pr�ncipe, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.2,
+    "CODIGO_RECEITA": 720,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 206,
+    "NOME": "S�o Vicente e Granadinas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.056,
+    "CODIGO_RECEITA": 705,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 207,
+    "NOME": "Senegal",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.285,
+    "CODIGO_RECEITA": 728,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 208,
+    "NOME": "Serra Leoa",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.358,
+    "CODIGO_RECEITA": 735,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 209,
+    "NOME": "S�rvia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.37,
+    "CODIGO_RECEITA": 737,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 210,
+    "NOME": "Seychelles",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.315,
+    "CODIGO_RECEITA": 731,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 211,
+    "NOME": "S�ria",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.447,
+    "CODIGO_RECEITA": 744,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 212,
+    "NOME": "Som�lia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.48,
+    "CODIGO_RECEITA": 748,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 213,
+    "NOME": "Sri Lanka",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.501,
+    "CODIGO_RECEITA": 750,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 214,
+    "NOME": "Suazil�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.544,
+    "CODIGO_RECEITA": 754,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 215,
+    "NOME": "Sud�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.595,
+    "CODIGO_RECEITA": 759,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 216,
+    "NOME": "Su�cia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.641,
+    "CODIGO_RECEITA": 764,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 217,
+    "NOME": "Su��a",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.676,
+    "CODIGO_RECEITA": 767,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 218,
+    "NOME": "Suriname",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.706,
+    "CODIGO_RECEITA": 770,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 219,
+    "NOME": "Tadjiquist�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.722,
+    "CODIGO_RECEITA": 772,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 220,
+    "NOME": "Tail�ndia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.765,
+    "CODIGO_RECEITA": 776,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 221,
+    "NOME": "Tanz�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.803,
+    "CODIGO_RECEITA": 780,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 222,
+    "NOME": "Tcheca, Rep�blica",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.919,
+    "CODIGO_RECEITA": 791,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 223,
+    "NOME": "Territ�rio Brit�nico no Oceano �ndico",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.82,
+    "CODIGO_RECEITA": 782,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 224,
+    "NOME": "Timor Leste",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 7.951,
+    "CODIGO_RECEITA": 795,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 225,
+    "NOME": "Togo",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.001,
+    "CODIGO_RECEITA": 800,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 226,
+    "NOME": "Tonga",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.109,
+    "CODIGO_RECEITA": 810,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 227,
+    "NOME": "Toquelau, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.052,
+    "CODIGO_RECEITA": 805,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 228,
+    "NOME": "Trinidad e Tobago",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.15,
+    "CODIGO_RECEITA": 815,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 229,
+    "NOME": "Tun�sia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.206,
+    "CODIGO_RECEITA": 820,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 230,
+    "NOME": "Turcas e caicos, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.23,
+    "CODIGO_RECEITA": 823,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 231,
+    "NOME": "Turcomenist�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.249,
+    "CODIGO_RECEITA": 824,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 232,
+    "NOME": "Turquia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.273,
+    "CODIGO_RECEITA": 827,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 233,
+    "NOME": "Tuvalu",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.281,
+    "CODIGO_RECEITA": 828,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 234,
+    "NOME": "Ucr�nia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.311,
+    "CODIGO_RECEITA": 831,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 235,
+    "NOME": "Uganda",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.338,
+    "CODIGO_RECEITA": 833,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 236,
+    "NOME": "Uruguai",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.451,
+    "CODIGO_RECEITA": 845,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 237,
+    "NOME": "Uzbequist�o",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.478,
+    "CODIGO_RECEITA": 847,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 238,
+    "NOME": "Vanuatu",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 5.517,
+    "CODIGO_RECEITA": 551,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 239,
+    "NOME": "Vaticano",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.486,
+    "CODIGO_RECEITA": 848,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 240,
+    "NOME": "Venezuela",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.508,
+    "CODIGO_RECEITA": 850,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 241,
+    "NOME": "Vietn�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.583,
+    "CODIGO_RECEITA": 858,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 242,
+    "NOME": "Virgens, Ilhas (Brit�nicas)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.63,
+    "CODIGO_RECEITA": 863,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 243,
+    "NOME": "Virgens, Ilhas (EUA)",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.664,
+    "CODIGO_RECEITA": 866,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 244,
+    "NOME": "Wake, Ilha",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.737,
+    "CODIGO_RECEITA": 873,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 245,
+    "NOME": "Wallis e Futuna, Ilhas",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.753,
+    "CODIGO_RECEITA": 875,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 246,
+    "NOME": "Zaire",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.885,
+    "CODIGO_RECEITA": 888,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 247,
+    "NOME": "Zambia",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.907,
+    "CODIGO_RECEITA": 890,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 248,
+    "NOME": "Zimb�bue",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 6.653,
+    "CODIGO_RECEITA": 665,
+    "DATA__": ""
+  },
+  {
+    "PAIS": 249,
+    "NOME": "Zona do Canal do Panam�",
+    "SIGLA": "",
+    "DDI": 0,
+    "COD_PAIS": 8.958,
+    "CODIGO_RECEITA": 895,
+    "DATA__": ""
+  }
+]

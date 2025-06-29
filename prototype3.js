@@ -26,5 +26,3 @@ const gatoRaivoso = {
 Object.setPrototypeOf(gatoRaivoso, gato)
 
 gatoRaivoso.miaForte()
-
-console.log("teste")

@@ -1,0 +1,212 @@
+[
+  {
+    "id_brand": 1,
+    "created_at": "2023-09-02 22:40:23.403457",
+    "updated_at": null,
+    "name_brand": "Geral"
+  },
+  {
+    "id_brand": 2,
+    "created_at": "2024-01-03 11:27:21.022101",
+    "updated_at": null,
+    "name_brand": "TDA"
+  },
+  {
+    "id_brand": 4,
+    "created_at": "2024-01-03 11:29:16.021247",
+    "updated_at": null,
+    "name_brand": "PowerX"
+  },
+  {
+    "id_brand": 5,
+    "created_at": "2024-01-03 11:30:13.420376",
+    "updated_at": null,
+    "name_brand": "Multilaser"
+  },
+  {
+    "id_brand": 6,
+    "created_at": "2024-01-03 11:30:46.700446",
+    "updated_at": null,
+    "name_brand": "Elsys"
+  },
+  {
+    "id_brand": 7,
+    "created_at": "2024-01-03 11:31:29.445922",
+    "updated_at": null,
+    "name_brand": "TP-Link"
+  },
+  {
+    "id_brand": 8,
+    "created_at": "2024-01-03 11:33:11.085401",
+    "updated_at": null,
+    "name_brand": "V-Tech"
+  },
+  {
+    "id_brand": 9,
+    "created_at": "2024-01-03 11:33:37.754486",
+    "updated_at": null,
+    "name_brand": "Pisc"
+  },
+  {
+    "id_brand": 10,
+    "created_at": "2024-01-03 11:34:50.459977",
+    "updated_at": null,
+    "name_brand": "Ragtec"
+  },
+  {
+    "id_brand": 11,
+    "created_at": "2024-01-03 11:35:11.963291",
+    "updated_at": null,
+    "name_brand": "Century"
+  },
+  {
+    "id_brand": 12,
+    "created_at": "2024-01-03 11:35:31.008034",
+    "updated_at": null,
+    "name_brand": "Brasforma"
+  },
+  {
+    "id_brand": 13,
+    "created_at": "2024-01-03 11:36:37.87817",
+    "updated_at": null,
+    "name_brand": "Rouxinol"
+  },
+  {
+    "id_brand": 14,
+    "created_at": "2024-01-03 11:36:52.416502",
+    "updated_at": null,
+    "name_brand": "Yaxum"
+  },
+  {
+    "id_brand": 15,
+    "created_at": "2024-01-03 11:37:14.946999",
+    "updated_at": null,
+    "name_brand": "Rino"
+  },
+  {
+    "id_brand": 16,
+    "created_at": "2024-01-03 11:37:39.215371",
+    "updated_at": null,
+    "name_brand": "RGC"
+  },
+  {
+    "id_brand": 17,
+    "created_at": "2024-01-03 11:38:19.664201",
+    "updated_at": null,
+    "name_brand": "ProEletronic"
+  },
+  {
+    "id_brand": 18,
+    "created_at": "2024-01-03 11:38:42.089996",
+    "updated_at": null,
+    "name_brand": "SatLink"
+  },
+  {
+    "id_brand": 20,
+    "created_at": "2024-01-03 11:39:45.8867",
+    "updated_at": null,
+    "name_brand": "Tramontina"
+  },
+  {
+    "id_brand": 22,
+    "created_at": "2024-01-06 17:36:37.682536",
+    "updated_at": null,
+    "name_brand": "MacroCabos"
+  },
+  {
+    "id_brand": 23,
+    "created_at": "2024-01-06 17:39:34.01447",
+    "updated_at": null,
+    "name_brand": "PcTop"
+  },
+  {
+    "id_brand": 24,
+    "created_at": "2024-01-06 17:48:25.83612",
+    "updated_at": null,
+    "name_brand": "Bright"
+  },
+  {
+    "id_brand": 25,
+    "created_at": "2024-01-08 17:40:50.722841",
+    "updated_at": null,
+    "name_brand": "Megatron"
+  },
+  {
+    "id_brand": 3,
+    "created_at": "2024-01-03 11:28:24.511877",
+    "updated_at": null,
+    "name_brand": "Aquário"
+  },
+  {
+    "id_brand": 19,
+    "created_at": "2024-01-03 11:39:05.437977",
+    "updated_at": null,
+    "name_brand": "Vinik"
+  },
+  {
+    "id_brand": 21,
+    "created_at": "2024-01-03 11:44:32.049785",
+    "updated_at": null,
+    "name_brand": "Rigol"
+  },
+  {
+    "id_brand": 26,
+    "created_at": "2024-01-28 16:33:50.85137",
+    "updated_at": null,
+    "name_brand": "3Com"
+  },
+  {
+    "id_brand": 27,
+    "created_at": "2024-01-30 12:54:08.328756",
+    "updated_at": null,
+    "name_brand": "Samsung"
+  },
+  {
+    "id_brand": 28,
+    "created_at": "2024-05-30 12:45:50.48635",
+    "updated_at": null,
+    "name_brand": "C3Tech"
+  },
+  {
+    "id_brand": 29,
+    "created_at": "2024-05-30 12:46:18.296046",
+    "updated_at": null,
+    "name_brand": "Hayom"
+  },
+  {
+    "id_brand": 30,
+    "created_at": "2024-05-30 13:02:05.504682",
+    "updated_at": null,
+    "name_brand": "Motorola"
+  },
+  {
+    "id_brand": 31,
+    "created_at": "2024-05-30 13:16:20.751993",
+    "updated_at": null,
+    "name_brand": "Gigasat"
+  },
+  {
+    "id_brand": 32,
+    "created_at": "2024-05-31 12:18:21.308903",
+    "updated_at": null,
+    "name_brand": "Lenovo"
+  },
+  {
+    "id_brand": 33,
+    "created_at": "2024-10-04 17:47:12.141262",
+    "updated_at": null,
+    "name_brand": "AOC"
+  },
+  {
+    "id_brand": 34,
+    "created_at": "2025-02-19 12:20:47.205254",
+    "updated_at": null,
+    "name_brand": "Epson"
+  },
+  {
+    "id_brand": 35,
+    "created_at": "2025-05-30 17:11:56.837797",
+    "updated_at": null,
+    "name_brand": "Ubiquiti"
+  }
+]
