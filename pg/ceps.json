@@ -12987,9 +12987,9 @@
     "UF": "CE"
   },
   {
-    "CODIGO": 1,
+    "CODIGO": 1.000,
     "CEP": "63.250-000",
-    "CODIGO_MUNICIPIO": 1,
+    "CODIGO_MUNICIPIO": 1.000,
     "TIPO": "Outros",
     "LOGRADOURO": "Milagres",
     "NUMERO_INICIAL": 0,
